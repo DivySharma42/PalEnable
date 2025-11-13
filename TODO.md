@@ -1,0 +1,8 @@
+- [x] Delete src/components/sections/products/ folder
+- [x] Delete src/pages/products-list.jsx
+- [x] Delete src/pages/single-products.jsx
+- [x] Delete src/db/productsData.js
+- [x] Update src/route/router.jsx to remove ProductsList import and route, and commented SingleProducts
+- [x] Update src/components/ui/pagination.jsx to change links to /blog
+- [x] Make contact form full width in src/components/sections/contactForm.jsx
+- [x] Delete src/db/faqData.js
